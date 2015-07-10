@@ -3,7 +3,7 @@ layout: media
 title: "Environmental Station Alpha"
 modified:
 categories: review
-excerpt:
+excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tincidunt faucibus est, ut luctus neque. Duis vitae sem tortor. Sed non venenatis turpis, malesuada volutpat enim. Maecenas maximus ultricies consequat. Cras maximus quam ac condimentum efficitur.
 tags: []
 image:
   feature: green-atmostphere.gif
