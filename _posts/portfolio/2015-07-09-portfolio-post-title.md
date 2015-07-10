@@ -1,8 +1,8 @@
 ---
 layout: media
-title: "Portfolio Post Title"
+title: "Environmental Station Alpha"
 modified:
-categories: portfolio
+categories: review
 excerpt:
 tags: []
 image:
@@ -15,4 +15,4 @@ date: 2015-07-09T21:48:18-07:00
 
 ![alt text](beetles.gif "Beetlejuice")
 
-Test Test Teste
+Test Test Test
