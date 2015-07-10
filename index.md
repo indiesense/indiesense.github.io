@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Latest Posts"
+title: "Latest Reviews"
 ---
 
 <div class="tiles">
