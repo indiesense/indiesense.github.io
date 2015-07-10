@@ -6,13 +6,13 @@ categories: review
 excerpt:
 tags: []
 image:
-  feature: beetles.gif
+  feature: green-atmostphere.gif
   teaser: beetles.gif
   thumb: beetles.gif
 ads: false
 date: 2015-07-09T21:48:18-07:00
 ---
 
-![alt text](beetles.gif "Beetlejuice")
+![Environmental Station Alpha]({{ site.url }}/images/mushroom.gif)
 
-Test Test Test
+Pixelly Goodness
