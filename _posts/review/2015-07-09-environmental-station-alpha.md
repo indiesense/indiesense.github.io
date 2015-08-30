@@ -34,9 +34,9 @@ The tight controls and character dexterity that you gain all come together whene
 Exploration in ESA is a central theme, and the world they offer you is large, varied and incredibly detailed. There's always someplace to explore and with each additional powerup, more and more of the map is opened up to you. I will say that one of the drawbacks in ESA is that at time the world felt too spread apart and not connected enough.  Even with the use of teleporters I was trekking back and forth through the same areas as I tried to find out where I'm supposed to go in the story. There is an expansive world for you to explore, with challenging platforming, difficult boss fights and beautifully animated envronments.
 
 ESA sports 15 different powerups, and while some powerups are just upgrades of previous ones, the games keeps platforming fresh by introducing a steady stream of upgrades to support all your exploration needs. I've been trying to keep this review relatively spoiler free by avoiding specific bosses or upgrades you can obtain, but I will say that the grappling hook is definitely one of the most satisfying powers in the game.
-
+<div style="width:100%">
 <img class="gfyitem" style="width:50%" data-id="AdmirableGrouchyHorsechestnutleafminer" />
-
+</div>
 ##Concerns:
 
 There aren't very many negatives to bring to light about ESA. I will take the time to say that one thing I wanted to see an improvement in was the inconsistent difficulties of boss fights. While the large majority of boss fights were extremely difficult, some of the boss fights were extremely easy. This isn't relegated to just the beginning boss fights, some of the ones in the mid-late games were much easier than boss fights I had experienced in the early game. For example, I had a much easier time with the final boss than I did with some of the other bosses in the games. Whether or not this was due to an increase in my individual skill or a lowering of the difficulty of the final boss, I cannot say. The answer is likely a combination of the two.
