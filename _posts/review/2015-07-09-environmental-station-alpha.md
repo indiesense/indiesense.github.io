@@ -17,7 +17,7 @@ date: 2015-07-09T21:48:18-07:00
 
 Environmental Station Alpha(ESA) is Hempuli's love letter to the metroidvania genre and has been in development for over three years. ESA features all the trademarks of an indie game, incredible pixellated graphics, a one-man gaming studio and an engine that was built on Multimedia Fusion 2. Underneath this layer of familiarity, ESA features a rich world, increasingly hairy boss fights and pixel perfect platforming. I have not had a Metroidvania draw me in and keep me hooked since the days of Metroid and Castlevania. Hempuli manages to craft an incredibly deep and vibrant world that is extremely fulfilling to explore, power-ups that are a joy to use and stunning graphics.
 
-##H2 Graphics
+##Graphics
 
 Your opinion on the graphics hinge on your opinion of blocky pixel art.. I'm a big fan of pixel art and the graphics for ESA are some of the best that I've seen. The backgrounds are incredibly detailed, with each world having a completely unique look and feel. You'll experience heatwaves in the lava world, quicksand in the desert area, and poisonous spores in the swamp area. Each environment that you traverse is unique, with environmental hazards dotting the landscape, and enemies that are native to that particular biome. Beautiful landscapes and great graphics need to be paired with fluid animations in order to create a game that looks vibrant and feels smooth. Clean and fluid animations can make up for what graphics cannot, as can be seen from physics based platformers such as Rain World and Fancy Pants adventure. Animation, not graphics, is often the dividing line between a game feeling polished and complete, and a browser-based flash game. In the case of ESA, the animations and graphics work in tandem and create a diverse world that feels alive. Jellyfish spurt forward and back like we expect them to, the heatwave the emanates from the lava looks like it could melt the metal right off your robot, and the boss animations are absolutely jaw dropping. Those with an appreciation for pixel art will fall in love with this game, and those that aren't may have trouble getting over the art style of the game
 
@@ -35,9 +35,10 @@ Exploration in ESA is a central theme, and the world they offer you is large, va
 
 ESA sports 15 different powerups, and while some powerups are just upgrades of previous ones, the games keeps platforming fresh by introducing a steady stream of upgrades to support all your exploration needs. I've been trying to keep this review relatively spoiler free by avoiding specific bosses or upgrades you can obtain, but I will say that the grappling hook is definitely one of the most satisfying powers in the game.
 
-<div class="gfyitem" data-controls=false data-expand=true data-id="AdmirableGrouchyHorsechestnutleafminer" ></div> 
 
-##Concerns:
+<img class="gfyitem" data-id="AdmirableGrouchyHorsechestnutleafminer" />
+
+##H2 Concerns:
 
 There aren't very many negatives to bring to light about ESA. I will take the time to say that one thing I wanted to see an improvement in was the inconsistent difficulties of boss fights. While the large majority of boss fights were extremely difficult, some of the boss fights were extremely easy. This isn't relegated to just the beginning boss fights, some of the ones in the mid-late games were much easier than boss fights I had experienced in the early game. For example, I had a much easier time with the final boss than I did with some of the other bosses in the games. Whether or not this was due to an increase in my individual skill or a lowering of the difficulty of the final boss, I cannot say. The answer is likely a combination of the two.
 
