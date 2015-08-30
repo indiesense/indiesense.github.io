@@ -394,3 +394,32 @@ nav {
 b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a, tr, td, .highlight {
 	@include transition (color 0.2s ease-out, opacity 0.2s ease-out, background 0.2s ease-out, border-color 0.2s ease-out);
 }
+
+div.gfyitem {
+    width:100%;
+    div:not(.gfyCtrlBox):not(.gfyCtrlTabPull){
+        width: 100% !important;
+        max-width:100% !important;
+        height: auto !important;    
+        .gfyPreLoadCanvas{
+            display: none;
+        }
+        video{
+            position:relative !important;
+            height: auto !important;
+            margin-top: 0;
+        }
+    }
+    .gfyCtrlBox{
+        margin-bottom:10px !important; 
+        .gfyCtrlPause, .gfyCtrlReverse, .gfyCtrlSlower, .gfyCtrlFaster{
+        width:15px;
+        height:15px;
+        margin-top:0;
+        display:inline;
+        }
+      }
+    .gfyGif{
+        position:relative !important;
+    }
+}
