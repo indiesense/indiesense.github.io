@@ -35,8 +35,7 @@ Exploration in ESA is a central theme, and the world they offer you is large, va
 
 ESA sports 15 different powerups, and while some powerups are just upgrades of previous ones, the games keeps platforming fresh by introducing a steady stream of upgrades to support all your exploration needs. I've been trying to keep this review relatively spoiler free by avoiding specific bosses or upgrades you can obtain, but I will say that the grappling hook is definitely one of the most satisfying powers in the game.
 
-
-<img class="gfyitem" data-controls=false data-id="AdmirableGrouchyHorsechestnutleafminer" />
+<img class="gfyitem" data-controls="false" data-id="AdmirableGrouchyHorsechestnutleafminer" />
 
 ##H2 Concerns:
 
