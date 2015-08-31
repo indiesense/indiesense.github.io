@@ -23,7 +23,10 @@
 	p {
 		text-align: justify;
 	}
-
+	video{
+		width: 40%; !important
+		
+	}
 
 /* Section/Article */
 
