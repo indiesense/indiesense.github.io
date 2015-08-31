@@ -4,6 +4,7 @@ title:  "Environmental Station Alpha"
 date:   2015-09-31 14:36:23
 categories: reviews
 image: <img src="/images/trap.gif">
+excerpt: Environmental Station Alpha(ESA) is Hempuli's love letter to the metroidvania genre and has been in development for over three years. ESA features all the trademarks of an indie game, incredible pixellated graphics, a one-man gaming studio and an engine that was built on Multimedia Fusion 2.
 ---
 <span class="image featured"><img src="/images/trap.gif" alt=""></span>
 
