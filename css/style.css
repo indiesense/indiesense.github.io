@@ -39,7 +39,6 @@ div.gfyitem {
 }
 div.gfyitem div:not(.gfyCtrlBox):not(.gfyCtrlTabPull) {
   width: 100% !important;
-  max-width: 100% !important;
   height: auto !important;
 }
 div.gfyitem div:not(.gfyCtrlBox):not(.gfyCtrlTabPull) .gfyPreLoadCanvas {
