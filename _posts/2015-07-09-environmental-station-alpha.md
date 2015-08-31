@@ -7,7 +7,7 @@ excerpt: Environmental Station Alpha(ESA) is Hempuli's love letter to the metroi
 
 ---
 
-<span class="image featured"><img src="/images/pic03.jpg" alt=""></span>
+<span class="image featured"><img src="/images/pic02.jpg" alt=""></span>
 
 ##Overview
 
