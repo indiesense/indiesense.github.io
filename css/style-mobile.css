@@ -23,6 +23,9 @@
 	p {
 		text-align: justify;
 	}
+	img.gfyGif{
+		width: 100% !important; 
+	}
 div.gfyitem {
   width: 100%;
 }
