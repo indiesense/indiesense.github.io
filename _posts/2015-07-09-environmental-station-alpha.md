@@ -1,16 +1,7 @@
 ---
-layout: media
-title: "Environmental Station Alpha"
-modified:
-categories: review
-excerpt: Environmental Station Alpha(ESA) is Hempuli's love letter to the metroidvania genre and has been in development for over three years. ESA features all the trademarks of an indie game, incredible pixellated graphics, a one-man gaming studio and an engine that was built on Multimedia Fusion 2.
-tags: []
-image:
-  feature: green-atmostphere.gif
-  teaser: beetles.gif
-  thumb: beetles.gif
-ads: false
-date: 2015-07-09T21:48:18-07:00
+layout: post
+title:  "Environmental Station Alpha"
+date:   2014-08-31 14:36:23
 ---
 
 ##Overview
@@ -37,7 +28,7 @@ ESA sports 15 different powerups, and while some powerups are just upgrades of p
 
 <img class="gfyitem" data-controls="false" data-expand="true" data-id="AdmirableGrouchyHorsechestnutleafminer" />
 
-##H2 Concerns:
+##Concerns:
 
 There aren't very many negatives to bring to light about ESA. I will take the time to say that one thing I wanted to see an improvement in was the inconsistent difficulties of boss fights. While the large majority of boss fights were extremely difficult, some of the boss fights were extremely easy. This isn't relegated to just the beginning boss fights, some of the ones in the mid-late games were much easier than boss fights I had experienced in the early game. For example, I had a much easier time with the final boss than I did with some of the other bosses in the games. Whether or not this was due to an increase in my individual skill or a lowering of the difficulty of the final boss, I cannot say. The answer is likely a combination of the two.
 
