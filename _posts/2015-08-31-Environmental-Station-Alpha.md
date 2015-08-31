@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Duis in purus"
+title:  "Environmental Station Alpha"
 date:   2015-09-31 14:36:23
-categories: Duis
+categories: reviews
 ---
 <span class="image featured"><img src="/images/trap.gif" alt=""></span>
+
 ##Overview
 
 Environmental Station Alpha(ESA) is Hempuli's love letter to the metroidvania genre and has been in development for over three years. ESA features all the trademarks of an indie game, incredible pixellated graphics, a one-man gaming studio and an engine that was built on Multimedia Fusion 2. Underneath this layer of familiarity, ESA features a rich world, increasingly hairy boss fights and pixel perfect platforming. I have not had a Metroidvania draw me in and keep me hooked since the days of Metroid and Castlevania. Hempuli manages to craft an incredibly deep and vibrant world that is extremely fulfilling to explore, power-ups that are a joy to use and stunning graphics.
