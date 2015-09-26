@@ -91,8 +91,47 @@ layout: landing-page
 					<section class="wrapper style3 container special">
 					
 						<header class="major">
-							<h2>Recent Reviews</strong></h2>
+						<h2>Recent Reviews</strong></h2>
 						</header>
+						{% for post in site.posts %}
+						  {% assign loopindex = forloop.index | modulo: 2 %}
+						  {% if loopindex == 1 %}
+							<div class="row">
+							<div class="6u">
+							
+								<section>
+									<a href="{{ post.url }}" class="image featured"><img src="{{post.image}}" alt="" /></a>
+									<header>
+										<h3>{{ post.title }}</h3>
+									</header>
+									<p>{{ post.excerpt }}</p>
+									    <ul class="buttons">
+                        				<li><a href="{{ post.url }}" class="button">Read more</a></li>
+                    					</ul>
+								</section>
+
+							</div>
+						  {% else %}
+						      <div class="6u">
+							
+								<section>
+									<a href="{{ post.url }}" class="image featured"><img src="{{post.image}}" alt="" /></a>
+									<header>
+										<h3>{{ post.title }}</h3>
+									</header>
+									<p>{{ post.excerpt }}</p>
+									    <ul class="buttons">
+                        				<li><a href="{{ post.url }}" class="button">Read more</a></li>
+                    					</ul>
+								</section>
+
+							</div>
+						    </div>
+						  {% endif %}
+						{% endfor %}
+
+
+
 						{% for post in site.posts limit:6 %}
 						<div class="row">
 							<div class="6u">
