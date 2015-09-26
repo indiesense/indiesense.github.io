@@ -12,17 +12,22 @@
         <header>
             <h2>IndieSense</h2>
         </header>
+        {% for post in site.posts limit:1 %}
         <p>Honest game reviews
         <br />
-        3D to 2D
+        We hold nothing back
         <br />
-        Indie or AAA</a>.</p>
+        Check out our latest review</a>.</p>
         <footer>
             <ul class="buttons vertical">
-                <li><a href="#main" class="button fit scrolly">Tell Me More</a></li>
+                <li>
+                
+                    <a href="#main" class="button fit scrolly">{{post.title}}</a>
+                
+                </li>
             </ul>
         </footer>
-
+        {% endfor %}
     </div>
 
 </section>
