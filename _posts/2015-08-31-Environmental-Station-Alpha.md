@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Environmental Station Alpha"
+title:  "Environmental Station Alpha Review"
 date:   2015-09-31 14:36:23
 categories: reviews
 image:  /images/trap.gif
