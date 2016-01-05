@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "12 is Better Than 6 Review"
-date:   2015-11-14
+date:   2016-01-04
 categories: reviews
 image:  /images/12ibt6.png
 excerpt: 12 is Better Than 6 is a fast and frenetic top down shooter that couples a unique shooting mechanic with quick and deadly gunplay.  It’ll have you running, gunning and slashing through a swathe of enemies against seemingly impossible odds.
