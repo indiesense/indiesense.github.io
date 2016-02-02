@@ -6,7 +6,7 @@ categories: reviews
 image:  /images/flywrench.png
 excerpt: Flywrench is a brutally difficult action arcade game produced by indie developer Messhof.  You’ll spend your time flapping, spinning, gliding and dying as you progress through progressively difficult levels.
 ---
-##Flywrench Review
+## Flywrench Review
 
 I first played Flywrench years ago, back in highschool when it was just another prototype that Messhof had just released.  It was a time when I had an incredible about of free time, a near infinite amount of free time and played every single indie game that I could get my hands on.  I still remember when I first downloaded Flywrench, it was a small, unassuming game from the developer of The Punishment and Punishment: The Punishing, so I had an inkling of what I was getting myself into.  A couple of hours and lots of angriness and disappoint later, I had decided that the game was too hard and deleted it off of my hard drive.  Fast forward to years later to the present day, I was delighted to find out that Flywrench got an updated release on Steam.  I was convinced that my previous difficulty with the game was due to my lack of experience and skills in games.
 

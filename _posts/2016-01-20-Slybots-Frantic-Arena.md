@@ -7,7 +7,7 @@ image:  /images/slybot.jpg
 excerpt: Slybots is billed as a frenetic and fast multiplayer hotseat game, where you’ll have access to a variety of weapons, such as guns, swords, and grenades that you can use to take down your opponents and increase your score, as well as the ability to hide and disguise your robot as an unassuming grey box and lie in wait as an enemy rushes by you for you to take them out.
 
 ---
-##Slybots: Frantic Area Review
+## Slybots: Frantic Area Review
 
 NOTE: I’ve only played the very first Early Access version of the game.  The game has since updated and been released.  I plan to update the review once I’m able to spend a good amount of time playing a local game with my co-writer.
 

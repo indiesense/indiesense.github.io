@@ -6,7 +6,7 @@ categories: reviews
 image:  /images/12ibt6.png
 excerpt: 12 is Better Than 6 is a fast and frenetic top down shooter that couples a unique shooting mechanic with quick and deadly gunplay.  It’ll have you running, gunning and slashing through a swathe of enemies against seemingly impossible odds.
 ---
-##12 is Better Than 6 Review
+## 12 is Better Than 6 Review
 
 When looking at the gameplay and format of 12 is Better Than 6, immediate parallels will be drawn with the Hotline Miami series.  Many of the mechanics are quite similar to Hotline Miami, self-contained levels, fast and frenetic action, quick deaths and satisfying kills.  What sets 12 is Better Than 6 apart from the swathe of Hotline Miami clones that have popped up, is the interesting art style that is employed and the gunplay mechanics that are core to the game.
 

@@ -6,7 +6,7 @@ categories: reviews
 image:  /images/racethesun.png
 excerpt: Race The Sun is an endless flyer that literally pits your solar powered spaceship against the setting sun.  Race The Sun is a high octane, adrenaline pumping adventure as you dip, dive and navigate through narrow corridors and giant pyramids, in an attempt to chase the sun and keep yourself powered on for as long as possible.
 ---
-##Race The Sun Review
+## Race The Sun Review
 
 Race The Sun is an endless flyer that literally pits your solar powered spaceship against the setting sun.  Race The Sun is a high octane, adrenaline pumping adventure as you dip, dive and navigate through narrow corridors and giant pyramids, in an attempt to chase the sun and keep yourself powered on for as long as possible.
 

@@ -6,7 +6,7 @@ categories: reviews
 image:  /images/polybridge.png
 excerpt: Poly Bridge is a physics simulation game in which you build “bridges” to help vehicles cross over dangerous ravines and trenches.  Bridges is a term I use loosely, as wet toilet paper has more structural integrity than some of the monstrosities you create.  Poly Bridge is currently in Early Access and is undergoing active development with a release date geared toward late 2015/early 2016.
 ---
-##Poly Bridge Review
+## Poly Bridge Review
 
 Note: All gifs besides the first one were made using the builtin GIF maker in Poly Bridge
 

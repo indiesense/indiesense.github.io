@@ -6,7 +6,7 @@ categories: reviews
 image:  /images/masterspy.png
 excerpt: Master Spy is a stealth based platformer that incorporates elements of speed running that is reminiscent of Super Meat Boy.  You’ll spend your time trying to break into buildings, avoiding guards and trying to circumvent all the security measures they have in place.
 ---
-##Master Spy Review
+## Master Spy Review
 
 Turbogun bills Master Spy as a “stealth-based precision platformer” and while I believe that this does an adequate job of describing the game, they probably should have added trap-filled, speed-running bonanza somewhere in there, just to cover all their bases.  Turbogun has created a time-sensitive stealth game that puts pressure on the player to always be pushing forward, while at the same time make it punishingly difficult when players that don’t take the time to be patient and time their movements correctly to the traps and the moving guards.  Trying to balance this constantly shifting balance of speed and patience, creates an increasingly hectic environment as you try to plan out your routes as quickly as possible, while at the same time mitigating the amount of risk you’re taking.
 

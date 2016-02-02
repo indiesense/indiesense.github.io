@@ -6,7 +6,7 @@ categories: reviews
 image:  /images/blitz.jpg
 excerpt: Blitz Breaker is an arcade game that’s light on story and heavy on fun.  You’ll spend your time bouncing from wall-to-wall as you try and navigate the deadly mazes, water filled corridors and spike lined walkways.
 ---
-###Blitz Breaker Review
+## Blitz Breaker Review
 
 In Blitz Breaker you play as a gravity defying robot, whose main job is to make it to a swirly green portal at the end of the level.  Along the way you’ll encounter a plethora of platforming challenges, environmental hazards and numerous traps(whose sole job is to make your life miserable).  In order to navigate each deadly level of Blitz Breaker, you’re provided with two movement mechanics for you to make use of, air dashing and jumping.  Movement in this game is unique, as your robot can’t actually walk around and air dashing is really your only way of getting around the level.  You’ll dash toward a direction infinitely until you collide with an object, if you’re still alive after colliding with said object you are then free to dash off in any direction you please, gravity be damned.  To survive in the game, you’ll need to plan and time your moves carefully to avoid running into any of the dangers that are placed throughout the map. Your ability to jump is only useful situationally and you won’t be using it much until the latter half of the game.
 
