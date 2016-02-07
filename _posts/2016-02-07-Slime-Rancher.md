@@ -35,7 +35,7 @@ I recently attended an interview with Jonathan Blow(of Braid and The Witness fam
 <img class="gfyitem" data-id="LazyNegligibleAlaskanhusky" />
 
 
-Capturing and raising slimes is fun, and overall is a very relaxing experience.  While there are some things that I definitely want to see added to the game, for the most part, the core of the game is solidly built and I can’t wait to see what Monomi Park has to offer for the game.  The game is currently out on Steam and in Early Access and available for 19.99.
+Capturing and raising slimes is fun, and overall is a very relaxing experience.  While there are some things that I definitely want to see added to the game, for the most part, the core of the game is solidly built and I can’t wait to see what Monomi Park has to offer for the game.  The game is currently out on [Steam](http://indiesense.github.io/reviews/Slime-Rancher) and in Early Access and available for 19.99.
 
 <img class="gfyitem" data-id="PrestigiousAdvancedFennecfox" />
-As charming as Slime Rancher is, it’s still an Early Access game and it shows.
+Look ma, no clipping!
