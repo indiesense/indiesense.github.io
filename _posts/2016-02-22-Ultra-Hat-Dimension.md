@@ -6,7 +6,7 @@ categories: reviews
 image:  /images/hat.jpg
 excerpt: Ultra Hat Dimension is a top-down puzzle game that features hats, punching and increasingly difficult levels.  You’ll spend your time navigating around the level in an effort to grab the key and make it to the exit as punch-prone blocks hinder you if you get too close.
 ---
-## Slime Rancher
+## Ultra Hat Dimension Review
 
 Ultra Hat Dimension has an extremely simple premise, you need to grab the key that unlocks the door to the exit.  This simple task is complicated by the existence of hat wearing blocks that decorate the level and serve to impede your progress.  Unlock standard puzzle games that have obstacles that block your way, the blocks in Ultra Hat Dimension are sentient, don’t like strangers coming near them and are prone to punch anything that comes in contact with them.
 
