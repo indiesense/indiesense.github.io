@@ -7,7 +7,7 @@ image:  /images/daggers.jpg
 excerpt: Devil Daggers is a circle-strafing, bunny hopping, jump strafing arcade shoot ‘em up that is reminiscent of the early id games, where fast movements and deadly weapons defined the genre.  You’ll blast away enemies as you slowly and painfully climb the leaderboards that rank every player.
 ---
 ## Devil Daggers
-<img class="gfyitem" data-id="DifficultOpenBoaconstrictor" />
+
 Upon your first run of Devil Daggers you’ll probably last less than 45 seconds.  On your subsequent playthrough you’ll be lucky to reach 50 seconds.  In fact, you’ll probably spend the majority of your first hour getting swarmed and decapitated over and over before you finally survive a minute in this brutally difficult, arcade shooter.  
 
 Devil Daggers is a lo-fi shoot ‘em up that focuses on insanely fast movements, deadly swarms of enemies and a deadly shower of daggers that you can summon with your fingertips.  You’ll have the option of shooting a steady stream of daggers towards the enemy or let them fly in a shotgun-like blast.  This is combined with a movement system straight out of an old school id game, where circle-strafing, bunny-hopping, rocket jumping and jump strafing are going to be the key to surviving any longer than 45 seconds.  You’ll spend your time trying to outmaneuver enemies and running them in circles as you try to get position yourself in a slightly better position in order to survive half a second longer.  The enemies in Devil Daggers aren’t so much difficult to deal with, as they are numerous.  You’ll have to deal with an insurmountable amount of horrendous hellspawn as they spew out from the ether and attempt to kill you.
