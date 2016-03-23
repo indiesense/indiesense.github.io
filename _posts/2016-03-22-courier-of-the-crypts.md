@@ -25,7 +25,7 @@ The biggest issue I had with Courier of the Crypts, is that the combat system wa
 
 <img class="gfyitem" data-id="ParallelConsciousInchworm" />
 
-Courier of the Crypts is an interesting game with it’s own unique art style.  While the combat leaves something to be desired, the environment that you explore more than makes up for the lackluster combat.  I do want to take the time to say, that while the typical combat system isn’t well-fleshed out, the boss fights were rewarding and adequately difficult.  Courier of the Crypts beautiful graphical style and sound level design make it an easy game to recommend.  It’s currently out on Early Access on Steam, with more content on the way.
+Courier of the Crypts is an interesting game with it’s own unique art style.  While the combat leaves something to be desired, the environment that you explore more than makes up for the lackluster combat.  I do want to take the time to say, that while the typical combat system isn’t well-fleshed out, the boss fights were rewarding and adequately difficult.  Courier of the Crypts beautiful graphical style and sound level design make it an easy game to recommend.  It’s currently out on [Early Access on Steam](http://store.steampowered.com/app/362940/), with more content on the way.
 
 
 
