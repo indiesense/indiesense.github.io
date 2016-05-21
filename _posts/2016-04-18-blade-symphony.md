@@ -7,7 +7,7 @@ image:  /images/blade.jpg
 excerpt: Blade Symphony is a 3D fighting game that revolves around swords, styles and stances.  You’ll face off against opponents from all over the globe as you react and adapt to your opponent’s strategies.
 
 ---
-## Blade Symphony
+## Blade Symphony Review
 
 Blade Symphony is not an easy game and does not advertise itself to be one.  It’s focused on customizability and variety, with multiple movesets available, depending on your choice in character, choice of weapons and how you handle the available stances that are given to you.  I spent my first couple of fights being hopelessly beaten down, pounded, sliced, diced and knocked around, but as each fight wore on and I challenged more and more people, I felt myself gradually improving.  Strategies and maneuvers weren’t as effective anymore, and I slowly started evolving and changing my fighting style based on the strategies and habits of my opponent.
 

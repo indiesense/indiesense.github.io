@@ -6,6 +6,8 @@ categories: reviews
 image:  /images/sausage.jpg
 excerpt: Stephen’s Sausage Roll is an enigmatic puzzler that will have you tearing your hair out as you slowly but surely plod your way through increasingly difficult levels.  You’ll need to roll, roast and skewer your way to the end goal, while hopefully keeping your sanity in check.
 ---
+## Stephen's Sausage Roll Review
+
 According the Steam page for Stephen’s Sausage Roll, SSR is a game that’s described as a “simple 3d puzzle game”.  While the description of appears to fit SSR perfectly, “simple” would be the last word I would use to describe Stephen’s Sausage Roll.  The whole game is wrapped up in a shroud of mystery right now, with Increpare giving little insight as to what the game is about. With little information from both the trailer and the product description, our review will try and shed some light on one of the premier puzzle games of the year, thus far. With that said, I played SSR without any knowledge of what the game was beforehand, and I think I had a much richer experience for it.  In this review, you’ll find GIFs of me solving puzzles, wandering the overworld and getting stuck in dead ends.  While I don’t think that these GIFs will spoil the entire game for you, if you wish to get a general feel of the game without spoilers, I’d read as far as the next paragraph before making a decision on whether or not the game is for you.
 
 <img class="gfyitem" data-id="MassiveTediousLarva" />
