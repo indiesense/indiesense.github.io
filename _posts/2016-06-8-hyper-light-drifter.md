@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hyper Light Drifter Review"
-date:   2016-05-20
+date:   2016-06-08
 categories: reviews
 image:  /images/drifter.jpg
 excerpt: Hyper Light Drifter is a top down zelda style game, that boasts beautiful environments, an expansive open world and crushingly difficult battles.
@@ -32,3 +32,4 @@ Hyper Light Drifter manages to create an expansive world that’s a joy to explo
 Hyper Light Drifter conveys a sense of wanderlust, whets your pallette for battles against an overwhelming amount of enemies and will have you roaring in triumph after concluding an especially difficult boss fight.  The world that it creates, the stories it tells and the calm and calculated combat that it inspires bring the game to be much more than just the sum of its parts.
 
 
+6
