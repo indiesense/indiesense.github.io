@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Alwa's Awakening Review"
-date:   2016-06-08
+date:   2017-02-13
 categories: reviews
 image:  /images/alwa.jpg
 excerpt: Alwa’s Awakening is a retro-inspired game, that harkens back to the days of NES gaming, with its quaint graphics and chiptune soundtrack, we’re easily transported back to yesteryear.
