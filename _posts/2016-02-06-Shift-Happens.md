@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Shift Happens Review"
-date:   2016-01-15
+date:   2017-01-15
 categories: reviews
 image:  /images/shift.jpg
 excerpt: Shift Happens is a platforming puzzle game that focuses on a unique mechanic in order to to challenge the player and tickle their brain.  While there are single and multiplayer modes, the game shines when play in a local co-op fashion.
