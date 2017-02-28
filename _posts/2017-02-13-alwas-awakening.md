@@ -9,6 +9,8 @@ excerpt: Alwa’s Awakening is a retro-inspired game, that harkens back to the d
 ---
 ## Alwa's Awakening
 
+by Brian Ta
+
 Alwa’s Awakening is a retro-inspired game, that harkens back to the days of NES gaming, with its quaint graphics and chiptune soundtrack, we’re easily transported back to yesteryear.  Alwa’s Awakening is an ambitious metroidvania that features hectic boss battles, tricky platforming and fun puzzles.
 
 Alwa’s Awakening is a game that immediately snatched my interest the first time that I saw it.  I’m a complete sucker for retro-inspired games, and Alwa’s Awakening is the very definition of that.  It seems like the perfect storm of NES inspired graphics and music, as well as being one of my favorite game genres.  Alwa’s Awakening is an NES-inspired metroidvania that will have the player running around, exploring the expansive world that’s been built, fighting enemies, and solving various puzzles that litter the dungeons.
