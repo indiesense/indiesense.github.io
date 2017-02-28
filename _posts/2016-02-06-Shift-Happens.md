@@ -1,12 +1,14 @@
 ---
 layout: post
 title:  "Shift Happens Review"
-date:   2016-02-05
+date:   2016-01-15
 categories: reviews
 image:  /images/shift.jpg
 excerpt: Shift Happens is a platforming puzzle game that focuses on a unique mechanic in order to to challenge the player and tickle their brain.  While there are single and multiplayer modes, the game shines when play in a local co-op fashion.
 ---
 ## Shift Happens
+
+by Brian Ta
 
 The main mechanic of Shift Happens is your ability to grow and shrink your character, with the larger version and smaller version having both their own sets of pros and cons.  The caveat to growing and shrinking at will, is that the two characters that are inextricably linked to each other, so when one grows the other one shrinks and vice versa.  This introduces quite a few mechanics into the game, and makes for some of the more interesting puzzles that I’ve had the pleasure of working on since Portal.
 
