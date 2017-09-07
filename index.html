@@ -23,7 +23,6 @@ layout: landing-page
 						</header>
 						{% for post in site.posts %}
 						  {% assign loopindex = forloop.index | modulo: 2 %}
-						  {% if loopindex == 1 and forloop.index < 7 %}
 							<div class="row">
 							<div class="6u">
 							
@@ -41,7 +40,6 @@ layout: landing-page
 
 							</div>
 						  {% else %}
-						  	{% if forloop.index < 7 %}
 						      <div class="6u">
 							
 								<section>
@@ -57,7 +55,6 @@ layout: landing-page
 
 							</div>
 						    </div>
-						  {% endif %}
 						{% end for %}
 						<footer class="major">
 							<ul class="buttons">
