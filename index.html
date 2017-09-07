@@ -20,8 +20,9 @@ layout: landing-page
 						<header class="major">
 						<h2>Recent Reviews</strong></h2>
 						</header>
-						{% for post in site.posts %}
 						{% for i in (1..8) %}
+						{% for post in site.posts %}
+						
 						  {% assign loopindex = forloop.index | modulo: 2 %}
 						  {% if loopindex == 1 %}
 							<div class="row">
