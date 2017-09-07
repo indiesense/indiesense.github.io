@@ -111,6 +111,7 @@ layout: landing-page
 
 							</div>
 						  {% else %}
+						  	{% for counter in (0..5) %}
 						      <div class="6u">
 							
 								<section>
@@ -126,6 +127,7 @@ layout: landing-page
 
 							</div>
 						    </div>
+						    {% endfor %}
 						  {% endif %}
 						{% endfor %}
 						<!-- <div class="row">
