@@ -7,7 +7,7 @@ image:  /images/songbringer.jpg
 excerpt: Songbringer is a an action RPG that throws in a generous mix of items, robots, chunky pixels, randomly generated dungeons and enough secrets to overload your floating robot friend.
 
 ---
-## Songbringer Review
+## Songbringer
 
 by Brian Ta
 
