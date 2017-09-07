@@ -32,8 +32,6 @@ Songbringer uses this same style of generation to create the world, and has been
 
 I've been playing indie games for over a decade and one thing that I absolutely love is pixel art, and Songbringer doesn't disappoint in this regard.  The art direction of Songbringer is distinct, and the chunky pixel look that Wizard Fu went for is cohesive across the entire game.  When combined with the modern lighting effects that are scattered on every room, you get this wonderful mix of retro and modern, that work seamlessly together.  This is coupled with sublime artwork for cut scenes and bosses, I have to say that the art style for Songbringer is distinct and attractive.  There were times when the lighting seemed to be a little much, but rooms like those were few and far between.
 
-<img class="gfyitem" data-id="ShockedScrawnyAardvark" />
-
 Songbringer is everything I never knew I wanted in a modern The Legend of Zelda game and more.  It wears it's inspiration on it's sleeve and creates an experience that sets itself apart from being just another Zelda clone.  The world is chock full of secrets just waiting to be uncovered, and an amazing crafting system that lets you mix a variety of abilities together.  There's nothing quite like being able to teleport a short distance forward and leaving trails of fire in your wake.  While there are a couple small annoyances regarding being able to differentiate enemy projectiles, the game is well paced, combat is punishing but fair and the game couldn't be lovelier to look at.  Also, hallucogenic cactuses are probably the best item I've ever seen in a game.
 
 <img class="gfyitem" data-id="SecondAcademicHuemul" />
