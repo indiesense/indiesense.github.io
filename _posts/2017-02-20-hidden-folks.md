@@ -4,7 +4,7 @@ title:  "Hidden Folks Review"
 date:   2017-02-20
 categories: reviews
 image:  /images/hidden.jpg
-excerpt: While it’s easy to draw direct parallels between Hidden Folks and the multiple clones and spin-offs of various Where’s Waldo books and games, Hidden Folks has taken that formula and tweaked it, in order to create a decidedly different experience.  Where other hidden object style games are centered around having the player closely inspect the environment that surrounds them, Hidden Folks encouraged the player to interact with the world presented to them.
+excerpt: While it’s easy to draw direct parallels between Hidden Folks and the multiple clones and spin-offs of various Where’s Waldo books and games, Hidden Folks has taken that formula and tweaked it, in order to create a decidedly different experience.
 
 ---
 ## Hidden Folks
