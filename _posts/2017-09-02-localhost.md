@@ -3,7 +3,7 @@ layout: post
 title:  "LOCALHOST Review"
 date:   2017-09-02
 categories: reviews
-image:  /images/localhost1.jpg
+image:  /images/local1.jpg
 excerpt: LOCALHOST is a game that follows you on your first day of work at a robot chop shop and the strange interactions that follow.
 ---
 ## LOCALHOST Review
