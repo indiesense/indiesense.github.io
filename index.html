@@ -21,9 +21,9 @@ layout: landing-page
 						<h2>Recent Reviews</strong></h2>
 						</header>
 						{% for i in (1..8) %}
-						{% for post in site.posts %}
-						
+						{% for post in site.posts %}					
 						  {% assign loopindex = forloop.index | modulo: 2 %}
+						  {% if forloop.index < 8 %}
 						  {% if loopindex == 1 %}
 							<div class="row">
 							<div class="6u">
@@ -56,6 +56,7 @@ layout: landing-page
 
 							</div>
 						    </div>
+						  {% endif %}
 						  {% endif %}
 						{% endfor %}
 						{% endfor %}
