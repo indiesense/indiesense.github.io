@@ -14,11 +14,11 @@ description: "Our quality, in-depth indie game reviews features animated gifs wi
           {% for post in site.posts %}
             <li class="wrapper {% if forloop.first %} style2 {% else %} style1 {% endif %}">
               <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-              <span class="image featured"><img src="{{post.image}}" alt="{{ post.title }} screenshot"></span>
+              <span class="image featured"><img src="{{post.image}}" alt="{{ post.title }}"></span>
                 <p>{{ post.excerpt }}<p>
                 <section class="special">
                     <ul class="buttons">
-                        <li><a href="{{ post.url }}" class="button">Read more</a></li>
+                        <li><a href="{{ post.url }}" class="button">Read more now</a></li>
                     </ul></section>
             </li>
           {% endfor %}
