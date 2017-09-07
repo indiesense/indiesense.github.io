@@ -38,10 +38,11 @@ layout: landing-page
 								</section>
 
 							</div>
-						  {% elseif forloop.index < 7 %}
+						  {% elsif forloop.index < 7 %}
 						      <div class="6u">
 							
 								<section>
+									<h1> {{forloop.index}}
 									<a href="{{ post.url }}" class="image featured"><img src="{{post.image}}" alt="{{ post.title}} gameplay screenshot" /></a>
 									<header>
 										<h3>{{ post.title }}</h3>
