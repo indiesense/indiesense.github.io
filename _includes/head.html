@@ -24,30 +24,22 @@
   ga('send', 'pageview');
 
 </script>
-  <script>
-      (function(d, s, id){
-         var js, fjs = d.getElementsByTagName(s)[0];
-         if (d.getElementById(id)) {return;}
-         js = d.createElement(s); js.id = id;
-         js.src = "https://assets.gfycat.com/gfycat.js";
-         fjs.parentNode.insertBefore(js, fjs);
-       }(document, 'script', 'gfycat-js'));
-  </script>
-  <script>
-  $( document ).ready(function() {
-var url = 'https://api.gfycat.com/v1/gfycats/'
+<script>
+$( document ).ready(function() {
+var url = 'https://api.gfycat.com/v1/gfycats/';
   $('.gfyitem').each(function(index) {
-    var gifID = $(this).data('id')
-    var blockID = $(this).attr('id')
-    var itemImg = $(this)
+    var gifID = $(this).data('id');
+    var blockID = $(this).attr('id');
+    var itemImg = $(this);
     $.get( url+gifID, function( data ) {
-      var videoString = '<div id="'+blockID+'"><video  loop="true" autoplay="true" muted><source src="'+data.gfyItem.mp4Url+'" type="video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\""><source src="'+data.gfyItem.webmUrl+'" type="video/webm; codecs=\"vp8, vorbis\""></video></div>'
+      var videoString = '<div id="'+blockID+'"><video  loop="true" autoplay="true" muted><source src="'+data.gfyItem.mp4Url+'" type="video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\""><source src="'+data.gfyItem.webmUrl+'" type="video/webm; codecs=\"vp8, vorbis\""></video></div>';
         itemImg.replaceWith( 
           videoString
-        )
+        );
     });
-  })
-})
+  });
+});
+</script>
   </script>
     <noscript>
         <link rel="stylesheet" href="/css/skel.css" />
