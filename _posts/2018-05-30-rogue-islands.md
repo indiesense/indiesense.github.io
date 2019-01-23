@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Rogue Islands Review"
-date:   2017-09-30
+date:   2018-05-30
 categories: reviews
 image:  /images/islands.jpg
 excerpt: Rogue Islands is an FPS Roguelike that will have you exploring islands, crafting spells and blasting anything that dares to look your way.  While it may look like Minecraft, Rogue Islands is completely cenetered around fast paced, frenetic combat.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My Time at Portia Review"
-date:   2018-02-17
+date:   2018-12-17
 categories: reviews
 image:  /images/portia.jpg
 excerpt: There's something about playing life simulators that is extremely soothing, maybe it's the fact that there isn't much of a time pressure for you to complete objectives, or that your tasks for the day are subject to your own whimsy. My Time at Portia is a fresh entry into this genre, and I'm hoping that it brings something fresh into the mix.

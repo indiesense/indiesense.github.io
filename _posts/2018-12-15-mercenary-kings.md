@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mercenary Kings for Switch Review"
-date:   2018-02-15
+date:   2018-12-15
 categories: reviews
 image:  /images/mercenary.jpg
 excerpt: Mercenary Kings is a run n' gun platformer that shooting, dodging, rolling, crafting and dying in various maps all over the world.  You'll have the ability to create and customize the gun that fits your playstyle, knife enemies that get too close to you and farm for more materials.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Shadows of Adam Review"
-date:   2017-09-04
+date:   2018-09-04
 categories: reviews
 image:  /images/adam.jpg
 excerpt: Shadows of Adam is a classically styled JRPG that comes with all the traippings of the JRPGs from yesteryear.  The art style and music harken back to the SNES days, with superb pixel art and catchy music, Something Classic has developed their take on the classic RPG.
